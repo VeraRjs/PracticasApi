@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService\bin\Debug\netstandard2.0\CalculadoraService.deps.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService\bin\Debug\netstandard2.0\CalculadoraService.dll
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService\bin\Debug\netstandard2.0\CalculadoraService.pdb
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService\obj\Debug\netstandard2.0\CalculadoraService.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService\obj\Debug\netstandard2.0\CalculadoraService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService\obj\Debug\netstandard2.0\CalculadoraService.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService\obj\Debug\netstandard2.0\CalculadoraService.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService\obj\Debug\netstandard2.0\CalculadoraService.dll
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService\obj\Debug\netstandard2.0\CalculadoraService.pdb

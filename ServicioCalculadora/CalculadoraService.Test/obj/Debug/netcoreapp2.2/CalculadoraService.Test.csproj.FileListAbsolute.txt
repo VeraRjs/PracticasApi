@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\bin\Debug\netcoreapp2.2\CalculadoraService.Test.deps.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\bin\Debug\netcoreapp2.2\CalculadoraService.Test.runtimeconfig.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\bin\Debug\netcoreapp2.2\CalculadoraService.Test.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\bin\Debug\netcoreapp2.2\CalculadoraService.Test.dll
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\bin\Debug\netcoreapp2.2\CalculadoraService.Test.pdb
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\obj\Debug\netcoreapp2.2\CalculadoraService.Test.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\obj\Debug\netcoreapp2.2\CalculadoraService.Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\obj\Debug\netcoreapp2.2\CalculadoraService.Test.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\obj\Debug\netcoreapp2.2\CalculadoraService.Test.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\obj\Debug\netcoreapp2.2\CalculadoraService.Test.dll
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\obj\Debug\netcoreapp2.2\CalculadoraService.Test.pdb
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\bin\Debug\netcoreapp2.2\CalculadoraService.dll
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\bin\Debug\netcoreapp2.2\CalculadoraService.pdb
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\ServicioCalculadora\CalculadoraService.Test\obj\Debug\netcoreapp2.2\CalculadoraService.Test.csproj.CopyComplete

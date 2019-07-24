@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\primerPrograma\bin\Debug\netcoreapp2.2\primerPrograma.deps.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\primerPrograma\bin\Debug\netcoreapp2.2\primerPrograma.runtimeconfig.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\primerPrograma\bin\Debug\netcoreapp2.2\primerPrograma.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\primerPrograma\bin\Debug\netcoreapp2.2\primerPrograma.dll
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\primerPrograma\bin\Debug\netcoreapp2.2\primerPrograma.pdb
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\primerPrograma\obj\Debug\netcoreapp2.2\primerPrograma.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\primerPrograma\obj\Debug\netcoreapp2.2\primerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\primerPrograma\obj\Debug\netcoreapp2.2\primerPrograma.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\primerPrograma\obj\Debug\netcoreapp2.2\primerPrograma.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\primerPrograma\obj\Debug\netcoreapp2.2\primerPrograma.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\primerPrograma\obj\Debug\netcoreapp2.2\primerPrograma.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\primerPrograma\obj\Debug\netcoreapp2.2\primerPrograma.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\primerPrograma\obj\Debug\netcoreapp2.2\primerPrograma.dll
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\primerPrograma\obj\Debug\netcoreapp2.2\primerPrograma.pdb

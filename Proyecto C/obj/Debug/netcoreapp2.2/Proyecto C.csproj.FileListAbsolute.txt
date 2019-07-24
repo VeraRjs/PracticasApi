@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\Proyecto C\bin\Debug\netcoreapp2.2\Proyecto C.deps.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\Proyecto C\bin\Debug\netcoreapp2.2\Proyecto C.runtimeconfig.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\Proyecto C\bin\Debug\netcoreapp2.2\Proyecto C.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Proyecto C\bin\Debug\netcoreapp2.2\Proyecto C.dll
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Proyecto C\bin\Debug\netcoreapp2.2\Proyecto C.pdb
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Proyecto C\obj\Debug\netcoreapp2.2\Proyecto C.csprojAssemblyReference.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Proyecto C\obj\Debug\netcoreapp2.2\Proyecto C.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Proyecto C\obj\Debug\netcoreapp2.2\Proyecto C.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Proyecto C\obj\Debug\netcoreapp2.2\Proyecto C.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Proyecto C\obj\Debug\netcoreapp2.2\Proyecto C.dll
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Proyecto C\obj\Debug\netcoreapp2.2\Proyecto C.pdb

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\cooldos\bin\Debug\netcoreapp2.2\cooldos.deps.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\cooldos\bin\Debug\netcoreapp2.2\cooldos.runtimeconfig.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\cooldos\bin\Debug\netcoreapp2.2\cooldos.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\cooldos\bin\Debug\netcoreapp2.2\cooldos.dll
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\cooldos\bin\Debug\netcoreapp2.2\cooldos.pdb
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\cooldos\obj\Debug\netcoreapp2.2\cooldos.csprojAssemblyReference.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\cooldos\obj\Debug\netcoreapp2.2\cooldos.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\cooldos\obj\Debug\netcoreapp2.2\cooldos.RazorAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\cooldos\obj\Debug\netcoreapp2.2\cooldos.RazorAssemblyInfo.cs
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\cooldos\obj\Debug\netcoreapp2.2\cooldos.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\cooldos\obj\Debug\netcoreapp2.2\cooldos.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\cooldos\obj\Debug\netcoreapp2.2\cooldos.RazorTargetAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\cooldos\obj\Debug\netcoreapp2.2\cooldos.dll
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\cooldos\obj\Debug\netcoreapp2.2\cooldos.pdb

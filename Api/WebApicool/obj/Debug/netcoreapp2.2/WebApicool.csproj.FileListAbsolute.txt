@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\Api\WebApicool\bin\Debug\netcoreapp2.2\WebApicool.deps.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\Api\WebApicool\bin\Debug\netcoreapp2.2\WebApicool.runtimeconfig.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\Api\WebApicool\bin\Debug\netcoreapp2.2\WebApicool.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Api\WebApicool\bin\Debug\netcoreapp2.2\WebApicool.dll
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Api\WebApicool\bin\Debug\netcoreapp2.2\WebApicool.pdb
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Api\WebApicool\obj\Debug\netcoreapp2.2\WebApicool.csprojAssemblyReference.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Api\WebApicool\obj\Debug\netcoreapp2.2\WebApicool.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Api\WebApicool\obj\Debug\netcoreapp2.2\WebApicool.RazorAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Api\WebApicool\obj\Debug\netcoreapp2.2\WebApicool.RazorAssemblyInfo.cs
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Api\WebApicool\obj\Debug\netcoreapp2.2\WebApicool.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Api\WebApicool\obj\Debug\netcoreapp2.2\WebApicool.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Api\WebApicool\obj\Debug\netcoreapp2.2\WebApicool.RazorTargetAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Api\WebApicool\obj\Debug\netcoreapp2.2\WebApicool.dll
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\Api\WebApicool\obj\Debug\netcoreapp2.2\WebApicool.pdb

@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\objetos\bin\Debug\netcoreapp2.2\objetos.deps.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\objetos\bin\Debug\netcoreapp2.2\objetos.runtimeconfig.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\objetos\bin\Debug\netcoreapp2.2\objetos.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\objetos\bin\Debug\netcoreapp2.2\objetos.dll
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\objetos\bin\Debug\netcoreapp2.2\objetos.pdb
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\objetos\obj\Debug\netcoreapp2.2\objetos.csprojAssemblyReference.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\objetos\obj\Debug\netcoreapp2.2\objetos.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\objetos\obj\Debug\netcoreapp2.2\objetos.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\objetos\obj\Debug\netcoreapp2.2\objetos.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\objetos\obj\Debug\netcoreapp2.2\objetos.dll
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\objetos\obj\Debug\netcoreapp2.2\objetos.pdb
